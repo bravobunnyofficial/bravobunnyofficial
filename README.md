@@ -32,8 +32,7 @@
 | 🐰 Bunny Templates | Website template marketplace with payment integration | [Visit](https://the-bunny-templates.vercel.app/) |
 | 💍 Proposal Site | Interactive romantic proposal website with animations & audio | [Visit](https://its5pecia1.netlify.app/) |
 | 🙏 Apology Site | Creative emotional apology website | [visit](https://an-apology-letter.netlify.app/) |
-| 🎂 Birthday site | A birthday wish into an unforgettable 
-experience | [visit](https://deardarling.netlify.app/) |
+| 🎂 Birthday site | A birthday wish into an unforgettable experience | [visit](https://deardarling.netlify.app/) |
 <br/>
 
 ## 📫 Contact Me
